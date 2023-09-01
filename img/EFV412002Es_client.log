@@ -1,0 +1,226 @@
+2.3.20 - 30/08/2023 07:56:12 - 412002Es - Fechando formulario Pendências financeiras.
+2.3.20 - 30/08/2023 07:56:14 - 412002Es - Abrindo formulario Conexão.
+2.3.20 - 30-08-2023 07:56:17 - 412002Es - Iniciada carga .
+2.3.20 - 30-08-2023 07:56:17 - 412002Es - Conexão diária iniciada.
+2.3.20 - 30-08-2023 07:56:20 - 412002Es - Finalizada carga Vendedor
+2.3.20 - 30-08-2023 07:56:20 - 412002Es - Finalizada carga Empresas
+2.3.20 - 30-08-2023 07:56:20 - 412002Es - Finalizada carga Forma pagamento
+2.3.20 - 30-08-2023 07:56:23 - 412002Es - Finalizada carga Clientes
+2.3.20 - 30-08-2023 07:56:35 - 412002Es - Finalizada carga Produtos
+2.3.20 - 30-08-2023 07:56:35 - 412002Es - Finalizada carga Listas
+2.3.20 - 30-08-2023 07:56:38 - 412002Es - Finalizada carga Preços
+2.3.20 - 30-08-2023 07:57:22 - 412002Es - Finalizada carga Pendencias Financeiras
+2.3.20 - 30-08-2023 07:57:22 - 412002Es - Finalizada carga Tributacoes
+2.3.20 - 30-08-2023 07:59:46 - 412002Es - Finalizada carga Pedidos Faturados
+2.3.20 - 30-08-2023 07:59:49 - 412002Es - Finalizada carga Itens Faturados
+2.3.20 - 30-08-2023 07:59:49 - 412002Es - Finalizada carga Itens Kit
+2.3.20 - 30-08-2023 07:59:50 - 412002Es - Finalizada carga Pedidos Enviados
+2.3.20 - 30-08-2023 07:59:50 - 412002Es - Finalizada carga Produtos imagens
+2.3.20 - 30-08-2023 07:59:50 - 412002Es - Conexão diária finalizada.
+2.3.20 - 30/08/2023 08:01:21 - 412002Es - Fechando formulario Conexão.
+2.3.20 - 30/08/2023 08:53:31 - 412002Es - Abrindo um pedido novo.
+2.3.20 - 30/08/2023 08:53:32 - 412002Es - Abrindo formulario Pedido.
+2.3.20 - 30/08/2023 08:53:32 - 412002Es - Abriu pedido 0
+2.3.20 - 30/08/2023 08:53:32 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 0
+2.3.20 - 30/08/2023 08:53:33 - 412002Es - Abrindo um pedido novo.
+2.3.20 - 30/08/2023 08:53:33 - 412002Es - Abriu pedido 0
+2.3.20 - 30/08/2023 08:53:33 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 0
+2.3.20 - 30/08/2023 08:53:41 - 412002Es - Pesquisou clientes.
+2.3.20 - 30/08/2023 08:53:45 - 412002Es - Escolheu cliente: 9061983
+2.3.20 - 30/08/2023 08:53:45 - 412002Es - Limite: 18500
+2.3.20 - 30/08/2023 08:53:45 - 412002Es - Limite disponível: 17807,36
+2.3.20 - 30/08/2023 08:53:45 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 08:56:55 - 412002Es - Fechou pedido: 0
+2.3.20 - 30/08/2023 08:56:55 - 412002Es - Fechando formulario Pedido.
+2.3.20 - 30/08/2023 08:56:56 - 412002Es - Abrindo um pedido novo.
+2.3.20 - 30/08/2023 08:56:57 - 412002Es - Abrindo formulario Pedido.
+2.3.20 - 30/08/2023 08:56:57 - 412002Es - Abriu pedido 0
+2.3.20 - 30/08/2023 08:56:57 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 0
+2.3.20 - 30/08/2023 08:57:01 - 412002Es - Pesquisou clientes.
+2.3.20 - 30/08/2023 08:57:06 - 412002Es - Pesquisou clientes.
+2.3.20 - 30/08/2023 08:57:13 - 412002Es - Escolheu cliente: 9088131
+2.3.20 - 30/08/2023 08:57:13 - 412002Es - Limite: 18500
+2.3.20 - 30/08/2023 08:57:13 - 412002Es - Limite disponível: 17807,36
+2.3.20 - 30/08/2023 08:57:13 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 08:57:23 - 412002Es - Incluiu produto : 100056 - valor : 89,38 - qtde.: 1,00
+2.3.20 - 30/08/2023 08:57:31 - 412002Es - Incluiu produto : 952850 - valor : 48,19 - qtde.: 1,00
+2.3.20 - 30/08/2023 08:57:38 - 412002Es - Incluiu produto : 952869 - valor : 48,19 - qtde.: 1,00
+2.3.20 - 30/08/2023 08:57:52 - 412002Es - Incluiu produto : 935212 - valor : 18,89 - qtde.: 1,00
+2.3.20 - 30/08/2023 08:58:07 - 412002Es - Incluiu produto : 924792 - valor : 1.000,00 - qtde.: 1,00
+2.3.20 - 30/08/2023 08:58:13 - 412002Es - Incluiu produto : 103284 - valor : 19,61 - qtde.: 1,00
+2.3.20 - 30/08/2023 08:58:23 - 412002Es - Incluiu produto : 135518 - valor : 17,91 - qtde.: 1,00
+2.3.20 - 30/08/2023 08:58:35 - 412002Es - Incluiu produto : 944521 - valor : 73,67 - qtde.: 1,00
+2.3.20 - 30/08/2023 08:58:44 - 412002Es - Editou produto: 924792
+2.3.20 - 30/08/2023 08:58:51 - 412002Es - Fechando conexão com o banco de dados antes de fechar o pedido 758.
+2.3.20 - 30/08/2023 08:58:51 - 412002Es - Pedido 758 com 7 itens salvo com sucesso.
+2.3.20 - 30/08/2023 08:58:51 - 412002Es - Fechou pedido: 758
+2.3.20 - 30/08/2023 08:58:51 - 412002Es - Fechando formulario Pedido.
+2.3.20 - 30/08/2023 08:58:54 - 412002Es - Abrindo formulario Pedidos.
+2.3.20 - 30/08/2023 08:58:55 - 412002Es - Fechando formulario Pedidos.
+2.3.20 - 30/08/2023 08:58:56 - 412002Es - Abrindo um pedido novo.
+2.3.20 - 30/08/2023 08:58:57 - 412002Es - Abrindo formulario Pedido.
+2.3.20 - 30/08/2023 08:58:57 - 412002Es - Abriu pedido 0
+2.3.20 - 30/08/2023 08:58:57 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 0
+2.3.20 - 30/08/2023 08:59:03 - 412002Es - Pesquisou clientes.
+2.3.20 - 30/08/2023 08:59:04 - 412002Es - Escolheu cliente: 9061983
+2.3.20 - 30/08/2023 08:59:04 - 412002Es - Limite: 18500
+2.3.20 - 30/08/2023 08:59:04 - 412002Es - Limite disponível: 17807,36
+2.3.20 - 30/08/2023 08:59:04 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 08:59:18 - 412002Es - Fechou pedido: 0
+2.3.20 - 30/08/2023 08:59:18 - 412002Es - Fechando formulario Pedido.
+2.3.20 - 30/08/2023 08:59:19 - 412002Es - Abrindo formulario Pedidos.
+2.3.20 - 30/08/2023 08:59:31 - 412002Es - Editando pedido 758.
+2.3.20 - 30/08/2023 08:59:32 - 412002Es - Abrindo formulario Pedido.
+2.3.20 - 30/08/2023 08:59:32 - 412002Es - Abriu pedido 758
+2.3.20 - 30/08/2023 08:59:32 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 7
+2.3.20 - 30/08/2023 08:59:33 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 08:59:33 - 412002Es - Editando pedido 758.
+2.3.20 - 30/08/2023 08:59:33 - 412002Es - Abriu pedido 758
+2.3.20 - 30/08/2023 08:59:33 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 7
+2.3.20 - 30/08/2023 08:59:34 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 08:59:44 - 412002Es - Editou produto: 135518
+2.3.20 - 30/08/2023 08:59:48 - 412002Es - Incluiu produto : 135518 - valor : 17,96 - qtde.: 1,00
+2.3.20 - 30/08/2023 08:59:50 - 412002Es - Fechando conexão com o banco de dados antes de fechar o pedido 758.
+2.3.20 - 30/08/2023 08:59:51 - 412002Es - Pedido 758 com 7 itens salvo com sucesso.
+2.3.20 - 30/08/2023 08:59:51 - 412002Es - Fechou pedido: 758
+2.3.20 - 30/08/2023 08:59:51 - 412002Es - Fechando formulario Pedido.
+2.3.20 - 30/08/2023 08:59:54 - 412002Es - Fechando formulario Pedidos.
+2.3.20 - 30/08/2023 08:59:55 - 412002Es - Abrindo um pedido novo.
+2.3.20 - 30/08/2023 08:59:56 - 412002Es - Abrindo formulario Pedido.
+2.3.20 - 30/08/2023 08:59:56 - 412002Es - Abriu pedido 0
+2.3.20 - 30/08/2023 08:59:56 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 0
+2.3.20 - 30/08/2023 09:00:02 - 412002Es - Pesquisou clientes.
+2.3.20 - 30/08/2023 09:00:03 - 412002Es - Escolheu cliente: 9060227
+2.3.20 - 30/08/2023 09:00:03 - 412002Es - Limite: 3300
+2.3.20 - 30/08/2023 09:00:03 - 412002Es - Limite disponível: 1975,57
+2.3.20 - 30/08/2023 09:00:03 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 09:00:05 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 09:08:20 - 412002Es - Incluiu produto : 161616 - valor : 274,34 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:08:28 - 412002Es - Incluiu produto : 802220 - valor : 142,94 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:08:40 - 412002Es - Incluiu produto : 934542 - valor : 12,34 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:09:01 - 412002Es - Incluiu produto : 937975 - valor : 67,07 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:09:46 - 412002Es - Escolheu faixa do produto : 118788 - qtde minima: 2
+2.3.20 - 30/08/2023 09:09:47 - 412002Es - Incluiu produto : 118788 - valor : 41,90 - qtde.: 2,00
+2.3.20 - 30/08/2023 09:11:14 - 412002Es - Fechando conexão com o banco de dados antes de fechar o pedido 759.
+2.3.20 - 30/08/2023 09:11:14 - 412002Es - Pedido 759 com 5 itens salvo com sucesso.
+2.3.20 - 30/08/2023 09:11:14 - 412002Es - Fechou pedido: 759
+2.3.20 - 30/08/2023 09:11:14 - 412002Es - Fechando formulario Pedido.
+2.3.20 - 30/08/2023 09:13:04 - 412002Es - Abrindo formulario Pedidos.
+2.3.20 - 30/08/2023 09:13:07 - 412002Es - Editando pedido 759.
+2.3.20 - 30/08/2023 09:13:08 - 412002Es - Abrindo formulario Pedido.
+2.3.20 - 30/08/2023 09:13:08 - 412002Es - Abriu pedido 759
+2.3.20 - 30/08/2023 09:13:08 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 5
+2.3.20 - 30/08/2023 09:13:09 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 09:13:23 - 412002Es - Incluiu produto : 952869 - valor : 48,19 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:13:40 - 412002Es - Incluiu produto : 954748 - valor : 54,80 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:13:55 - 412002Es - Incluiu produto : 142484 - valor : 33,05 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:14:29 - 412002Es - Fechando conexão com o banco de dados antes de fechar o pedido 759.
+2.3.20 - 30/08/2023 09:14:29 - 412002Es - Pedido 759 com 8 itens salvo com sucesso.
+2.3.20 - 30/08/2023 09:14:29 - 412002Es - Fechou pedido: 759
+2.3.20 - 30/08/2023 09:14:29 - 412002Es - Fechando formulario Pedido.
+2.3.20 - 30/08/2023 09:25:40 - 412002Es - Fechando formulario Pedidos.
+2.3.20 - 30/08/2023 09:25:42 - 412002Es - Abrindo um pedido novo.
+2.3.20 - 30/08/2023 09:25:43 - 412002Es - Abrindo formulario Pedido.
+2.3.20 - 30/08/2023 09:25:43 - 412002Es - Abriu pedido 0
+2.3.20 - 30/08/2023 09:25:43 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 0
+2.3.20 - 30/08/2023 09:25:49 - 412002Es - Pesquisou clientes.
+2.3.20 - 30/08/2023 09:25:50 - 412002Es - Escolheu cliente: 9084612
+2.3.20 - 30/08/2023 09:25:50 - 412002Es - Limite: 6500
+2.3.20 - 30/08/2023 09:25:50 - 412002Es - Limite disponível: 3245,96
+2.3.20 - 30/08/2023 09:25:50 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 09:29:09 - 412002Es - Incluiu produto : 953032 - valor : 94,67 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:29:22 - 412002Es - Incluiu produto : 183156 - valor : 68,64 - qtde.: 3,00
+2.3.20 - 30/08/2023 09:29:40 - 412002Es - Incluiu produto : 111120 - valor : 34,12 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:29:58 - 412002Es - Incluiu produto : 944424 - valor : 76,43 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:30:17 - 412002Es - Incluiu produto : 207969 - valor : 75,49 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:30:32 - 412002Es - Incluiu produto : 149691 - valor : 64,52 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:32:44 - 412002Es - Incluiu produto : 149802 - valor : 28,76 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:34:01 - 412002Es - Editou produto: 953032
+2.3.20 - 30/08/2023 09:34:01 - 412002Es - Editou produto: 183156
+2.3.20 - 30/08/2023 09:40:15 - 412002Es - Incluiu produto : 183156 - valor : 68,64 - qtde.: 3,00
+2.3.20 - 30/08/2023 09:40:32 - 412002Es - Incluiu produto : 953032 - valor : 94,67 - qtde.: 1,00
+2.3.20 - 30/08/2023 09:40:47 - 412002Es - Incluiu produto : 957577 - valor : 13,96 - qtde.: 2,00
+2.3.20 - 30/08/2023 09:42:58 - 412002Es - Fechando conexão com o banco de dados antes de fechar o pedido 760.
+2.3.20 - 30/08/2023 09:42:58 - 412002Es - Pedido 760 com 8 itens salvo com sucesso.
+2.3.20 - 30/08/2023 09:42:58 - 412002Es - Fechou pedido: 760
+2.3.20 - 30/08/2023 09:42:58 - 412002Es - Fechando formulario Pedido.
+2.3.20 - 30/08/2023 10:35:27 - 412002Es - Abrindo um pedido novo.
+2.3.20 - 30/08/2023 10:35:28 - 412002Es - Abrindo formulario Pedido.
+2.3.20 - 30/08/2023 10:35:28 - 412002Es - Abriu pedido 0
+2.3.20 - 30/08/2023 10:35:28 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 0
+2.3.20 - 30/08/2023 10:35:32 - 412002Es - Pesquisou clientes.
+2.3.20 - 30/08/2023 10:35:33 - 412002Es - Escolheu cliente: 406600
+2.3.20 - 30/08/2023 10:35:33 - 412002Es - Limite: 3000
+2.3.20 - 30/08/2023 10:35:33 - 412002Es - Limite disponível: 3000
+2.3.20 - 30/08/2023 10:35:33 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 11:21:43 - 412002Es - Trocou cliente.
+2.3.20 - 30/08/2023 11:21:43 - 412002Es - Escolheu cliente: 406600
+2.3.20 - 30/08/2023 11:21:43 - 412002Es - Limite: 3000
+2.3.20 - 30/08/2023 11:21:43 - 412002Es - Limite disponível: 3000
+2.3.20 - 30/08/2023 11:21:43 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 11:22:02 - 412002Es - Incluiu produto : 924792 - valor : 1.000,00 - qtde.: 1,00
+2.3.20 - 30/08/2023 11:22:36 - 412002Es - Fechando conexão com o banco de dados antes de fechar o pedido 761.
+2.3.20 - 30/08/2023 11:22:36 - 412002Es - Pedido 761 com 1 itens salvo com sucesso.
+2.3.20 - 30/08/2023 11:22:36 - 412002Es - Fechou pedido: 761
+2.3.20 - 30/08/2023 11:22:36 - 412002Es - Fechando formulario Pedido.
+2.3.20 - 30/08/2023 11:22:49 - 412002Es - Abrindo formulario Pedidos.
+2.3.20 - 30/08/2023 11:22:51 - 412002Es - Editando pedido 715.
+2.3.20 - 30/08/2023 11:22:52 - 412002Es - Abrindo formulario Pedido.
+2.3.20 - 30/08/2023 11:22:52 - 412002Es - Abriu pedido 715
+2.3.20 - 30/08/2023 11:22:52 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 2
+2.3.20 - 30/08/2023 11:22:53 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 11:24:59 - 412002Es - Fechando conexão com o banco de dados antes de fechar o pedido 715.
+2.3.20 - 30/08/2023 11:24:59 - 412002Es - Pedido 715 com 2 itens salvo com sucesso.
+2.3.20 - 30/08/2023 11:24:59 - 412002Es - Fechou pedido: 715
+2.3.20 - 30/08/2023 11:24:59 - 412002Es - Fechando formulario Pedido.
+2.3.20 - 30/08/2023 11:42:19 - 412002Es - Fechando formulario Pedidos.
+2.3.20 - 30/08/2023 11:42:20 - 412002Es - Abrindo um pedido novo.
+2.3.20 - 30/08/2023 11:42:21 - 412002Es - Abrindo formulario Pedido.
+2.3.20 - 30/08/2023 11:42:21 - 412002Es - Abriu pedido 0
+2.3.20 - 30/08/2023 11:42:21 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 0
+2.3.20 - 30/08/2023 11:43:03 - 412002Es - Pesquisou clientes.
+2.3.20 - 30/08/2023 11:43:05 - 412002Es - Escolheu cliente: 9009850
+2.3.20 - 30/08/2023 11:43:05 - 412002Es - Limite: 1000
+2.3.20 - 30/08/2023 11:43:05 - 412002Es - Limite disponível: 436,34
+2.3.20 - 30/08/2023 11:43:05 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 11:43:06 - 412002Es - Abrindo formulario Liberação de senha.
+2.3.20 - 30/08/2023 11:43:07 - 412002Es - Fechando formulario Liberação de senha.
+2.3.20 - 30/08/2023 11:43:09 - 412002Es - Fechou pedido: 0
+2.3.20 - 30/08/2023 11:43:09 - 412002Es - Fechando formulario Pedido.
+2.3.20 - 30/08/2023 11:43:10 - 412002Es - Abrindo formulario Conexão.
+2.3.20 - 30-08-2023 11:43:14 - 412002Es - Iniciada carga .
+2.3.20 - 30-08-2023 11:43:14 - 412002Es - Conexão completa iniciada.
+2.3.20 - 30-08-2023 11:43:16 - 412002Es - Finalizada carga Vendedor
+2.3.20 - 30-08-2023 11:43:16 - 412002Es - Finalizada carga Empresas
+2.3.20 - 30-08-2023 11:43:21 - 412002Es - Finalizada carga Forma pagamento
+2.3.20 - 30-08-2023 11:43:25 - 412002Es - Finalizada carga Clientes
+2.3.20 - 30-08-2023 11:44:12 - 412002Es - Finalizada carga Produtos
+2.3.20 - 30-08-2023 11:44:13 - 412002Es - Finalizada carga Listas
+2.3.20 - 30-08-2023 11:44:53 - 412002Es - Finalizada carga Preços
+2.3.20 - 30-08-2023 11:45:01 - 412002Es - Finalizada carga Pendencias Financeiras
+2.3.20 - 30-08-2023 11:45:01 - 412002Es - Finalizada carga Tributacoes
+2.3.20 - 30-08-2023 11:45:17 - 412002Es - Finalizada carga Pedidos Faturados
+2.3.20 - 30-08-2023 11:46:06 - 412002Es - Finalizada carga Itens Faturados
+2.3.20 - 30-08-2023 11:46:06 - 412002Es - Finalizada carga Itens Kit
+2.3.20 - 30-08-2023 11:46:07 - 412002Es - Finalizada carga Pedidos Enviados
+2.3.20 - 30-08-2023 11:46:07 - 412002Es - Finalizada carga Produtos imagens
+2.3.20 - 30-08-2023 11:46:08 - 412002Es - Conexão completa finalizada.
+2.3.20 - 30/08/2023 11:46:23 - 412002Es - Fechando formulario Conexão.
+2.3.20 - 30/08/2023 11:46:26 - 412002Es - Abrindo um pedido novo.
+2.3.20 - 30/08/2023 11:46:27 - 412002Es - Abrindo formulario Pedido.
+2.3.20 - 30/08/2023 11:46:27 - 412002Es - Abriu pedido 0
+2.3.20 - 30/08/2023 11:46:27 - 412002Es - TfrmPedido::GetValuesPedido::Itens do pedido 0
+2.3.20 - 30/08/2023 11:46:31 - 412002Es - Pesquisou clientes.
+2.3.20 - 30/08/2023 11:46:36 - 412002Es - Pesquisou clientes.
+2.3.20 - 30/08/2023 11:46:37 - 412002Es - Escolheu cliente: 9009850
+2.3.20 - 30/08/2023 11:46:37 - 412002Es - Limite: 1000
+2.3.20 - 30/08/2023 11:46:37 - 412002Es - Limite disponível: 1000
+2.3.20 - 30/08/2023 11:46:37 - 412002Es - Trocou forma de pagamento.
+2.3.20 - 30/08/2023 12:51:08 - 412002Es - Abrindo formulario Cliente.
+2.3.20 - 30/08/2023 12:51:14 - 412002Es - Fechando formulario Cliente.
+2.3.20 - 30/08/2023 12:51:14 - 412002Es - Fechando formulario Cliente.
+2.3.20 - 30/08/2023 12:51:22 - 412002Es - Fechou pedido: 0
+2.3.20 - 30/08/2023 12:51:22 - 412002Es - Fechando formulario Pedido.
+2.3.20 - 30/08/2023 12:51:31 - 412002Es - Abrindo formulario Opções.
+2.3.20 - 30/08/2023 12:51:33 - 412002Es - Fechando formulario Opções.
+2.3.20 - 30/08/2023 12:51:37 - 412002Es - Abrindo formulario Opções.

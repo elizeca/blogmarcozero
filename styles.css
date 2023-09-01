@@ -1,0 +1,30 @@
+#logo{
+    width: 90px;
+    height: 70px;
+
+}
+
+#title{
+    border-inline-end: 40px;
+}
+
+div{
+    background-color: lightgrey;
+  padding: 50px;
+  margin: 20px;
+}
+
+.icones{
+    display: grid;
+
+}
+body{
+    background-color: blanchedalmond;
+}
+form{
+    background-color: #ff9; 
+    border:5px solid #f0f; 
+    padding: 5px;
+    text-align:justify;
+
+}
