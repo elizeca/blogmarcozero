@@ -1,11 +1,14 @@
 #logo{
     width: 90px;
     height: 70px;
-
+    padding-right: 800px;
 }
 
 #title{
-    border-inline-end: 40px;
+    
+    
+    flex-wrap: nowrap;
+    
 }
 
 div{
@@ -15,16 +18,25 @@ div{
 }
 
 .icones{
-    display: grid;
+    float: right;
+    font-size: xxx-large
 
 }
 body{
-    background-color: blanchedalmond;
+    background-color: lightcyan;
+    background-size: 80px 60px;  /* 80 pixels de largura e 60 pixels de altura */
+    background-size: 300px;  /* 300 pixels de largura e altura automática */
+    text-align: center;
+    font-family: cursive;
 }
 form{
-    background-color: #ff9; 
-    border:5px solid #f0f; 
-    padding: 5px;
+    background-color: lightcyan; 
+    border:5px solid black; 
+    padding: 10px;
     text-align:justify;
-
+    display: grid;
+}
+section{
+    font-size: -webkit-xxx-large;
+    
 }
